@@ -31,3 +31,5 @@ app.listen(8080, () => {
 //Workflow
 //post.js from routes will take the data from post.js from controllers and then that post.js(routes) will act as a middleware and 
 //that we will use in the app.js
+
+//controllers will major contain the data or the data which is taken from api 
